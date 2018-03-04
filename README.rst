@@ -80,7 +80,7 @@ Relayed Correlation ID
    :target: http://coveralls.io/r/sprockets/sprockets.mixins.correlation
 .. |Downloads| image:: https://img.shields.io/pypi/dm/sprockets.mixins.correlation.svg
    :target: https://pypi.python.org/pypi/sprockets.mixins.correlation
-.. |License| image:: https://pypip.in/license/sprockets.mixins.correlation/badge.svg
+.. |License| image:: https://img.shields.io/pypi/l/sprockets.mixins.correlation.svg
    :target: https://sprocketsmixinscorrelation.readthedocs.io/
 .. |Documentation| image:: https://readthedocs.org/projects/sprocketsmixinscorrelation/badge
    :target: https://sprocketsmixinscorrelation.readthedocs.io/
